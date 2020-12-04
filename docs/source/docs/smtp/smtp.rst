@@ -2,8 +2,22 @@
 SMTP
 *************
 
-Linux
-=========
+Developer Account
+=================
+
+set up an developer account for gmail
+
+- go to your account `sabinemaenneldevelop@gmail.com`
+- password in the vault
+- click on your account
+- click on security
+- scroll down and find `less secure app access`
+- turn it on
+- you will get a security alert from gmail
+
+establish a secure connection with smtp-ssl
+============================================
+
 
 sendmail
 --------
